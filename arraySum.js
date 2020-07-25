@@ -8,7 +8,6 @@ console.log("total of the numbers: ", sum);
 
 //with function
 
-
 function getArraySum(numbers){
     var sum = 0;
     for (var i = 0; i < numbers.length ; i++){
